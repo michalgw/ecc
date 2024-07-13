@@ -145,6 +145,7 @@ type
     property BorderStyle;
     property CaptionAlign;
     property CaptionFontOptions;
+    property ClickOnSelChange;
     property Color;
     property Constraints;
     property DragCursor;
